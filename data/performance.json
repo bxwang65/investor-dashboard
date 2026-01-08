@@ -1,0 +1,122 @@
+[
+  {
+    "name": "FPA Queens Road Small Cap Value Fund",
+    "portfolio_value": "$960 M",
+    "stock_count": "46",
+    "returns": {
+      "5Y": 32.07,
+      "2Y": 32.07,
+      "1Y": 32.07,
+      "6M": 32.07,
+      "3M": 32.07
+    }
+  },
+  {
+    "name": "Mason Hawkins - Longleaf Partners",
+    "portfolio_value": "$960 M",
+    "stock_count": "19",
+    "returns": {
+      "5Y": -2.15,
+      "2Y": -2.15,
+      "1Y": -2.15,
+      "6M": -2.15,
+      "3M": -2.15
+    }
+  },
+  {
+    "name": "Triple Frond Partners",
+    "portfolio_value": "$918 M",
+    "stock_count": "11",
+    "returns": {
+      "5Y": 28.82,
+      "2Y": 28.82,
+      "1Y": 28.82,
+      "6M": 28.82,
+      "3M": 28.82
+    }
+  },
+  {
+    "name": "John Rogers - Ariel Appreciation Fund",
+    "portfolio_value": "$884 M",
+    "stock_count": "41",
+    "returns": {
+      "5Y": 24.38,
+      "2Y": 24.38,
+      "1Y": 24.38,
+      "6M": 24.38,
+      "3M": 24.38
+    }
+  },
+  {
+    "name": "Wallace Weitz - Weitz Large Cap Equity Fund",
+    "portfolio_value": "$816 M",
+    "stock_count": "27",
+    "returns": {
+      "5Y": 10.85,
+      "2Y": 10.85,
+      "1Y": 10.85,
+      "6M": 10.85,
+      "3M": 10.85
+    }
+  },
+  {
+    "name": "Christopher Bloomstran - Semper Augustus",
+    "portfolio_value": "$801 M",
+    "stock_count": "38",
+    "returns": {
+      "5Y": 63.02,
+      "2Y": 63.02,
+      "1Y": 63.02,
+      "6M": 63.02,
+      "3M": 63.02
+    }
+  },
+  {
+    "name": "Torray Funds",
+    "portfolio_value": "$713 M",
+    "stock_count": "98",
+    "returns": {
+      "5Y": 16.45,
+      "2Y": 16.45,
+      "1Y": 16.45,
+      "6M": 16.45,
+      "3M": 16.45
+    }
+  },
+  {
+    "name": "Dennis Hong - ShawSpring Partners",
+    "portfolio_value": "$673 M",
+    "stock_count": "11",
+    "returns": {
+      "5Y": -20.26,
+      "2Y": -20.26,
+      "1Y": -20.26,
+      "6M": -20.26,
+      "3M": -20.26
+    }
+  },
+  {
+    "name": "Greg Alexander - Conifer Management",
+    "portfolio_value": "$631 M",
+    "stock_count": "5",
+    "returns": {
+      "5Y": 3.35,
+      "2Y": 3.35,
+      "1Y": 3.35,
+      "6M": 3.35,
+      "3M": 3.35
+    }
+  },
+  {
+    "name": "Richard Pzena - Hancock Classic Value",
+    "portfolio_value": "$591 M",
+    "stock_count": "33",
+    "returns": {
+      "5Y": 32.71,
+      "2Y": 32.71,
+      "1Y": 32.71,
+      "6M": 32.71,
+      "3M": 32.71
+    }
+  }
+]
