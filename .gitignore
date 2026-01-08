@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build outputs
+dist/
+.build/
+.netlify/
+
+# Python
+*.egg-info/
+.eggs/
+*.egg
+.pytest_cache/
+.coverage
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Data files (auto-generated, keep in git)
+# !data/*.json
+
+# Backup files
+*.bak
+*.backup
+
+# Netlify
+.netlify/

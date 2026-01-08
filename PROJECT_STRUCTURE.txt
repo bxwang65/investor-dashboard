@@ -1,0 +1,9 @@
+./index.html
+./netlify.toml
+./PROJECT_STRUCTURE.txt
+./README.md
+./DEPLOYMENT_GUIDE.md
+./scripts/calculate_performance.py
+./scripts/scrape_holdings.py
+./scripts/update_dashboard.py
+./data/holdings.json

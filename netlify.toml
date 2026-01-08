@@ -1,0 +1,42 @@
+[build]
+  publish = "/"
+  command = "echo 'No build command required'"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+# Redirects for API proxy (if using Functions)
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+  force = true
+
+# Headers for CORS
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS"
+    Access-Control-Allow-Headers = "Content-Type, Authorization"
+
+# Cache strategy for data files
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600, s-maxage=3600"
+
+# Cache strategy for HTML
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Plugins (optional)
+[[plugins]]
+  package = "@netlify/plugin-lighthouse"
+  [plugins.inputs.thresholds]
+    performance = 0.7
+    accessibility = 0.9
+    best-practices = 0.9
+    seo = 0.9
