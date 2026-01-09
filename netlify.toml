@@ -1,9 +1,6 @@
 [build]
   publish = "/"
-  command = "echo 'No build command required'"
-
-[build.environment]
-  NODE_VERSION = "18"
+  command = ""
 
 # Redirects for API proxy (if using Functions)
 [[redirects]]
@@ -31,12 +28,3 @@
   for = "/*.html"
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
-
-# Plugins (optional)
-[[plugins]]
-  package = "@netlify/plugin-lighthouse"
-  [plugins.inputs.thresholds]
-    performance = 0.7
-    accessibility = 0.9
-    best-practices = 0.9
-    seo = 0.9
