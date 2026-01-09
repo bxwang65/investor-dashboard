@@ -1,6 +1,9 @@
 [build]
-  publish = "/"
-  command = ""
+  publish = "dist"
+  command = "npm run build"
+
+[build.environment]
+  NODE_VERSION = "18"
 
 # Redirects for API proxy (if using Functions)
 [[redirects]]
@@ -28,3 +31,9 @@
   for = "/*.html"
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
+
+# Cache strategy for assets (long-term cache)
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
