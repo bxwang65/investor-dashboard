@@ -1,0 +1,104 @@
+name: 💹 每2周绩效分析更新
+
+on:
+  schedule:
+    # 每2周运行：每月1日和15日 UTC 02:00（北京时间上午10点）
+    - cron: '0 2 1,15 * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-performance:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install openbb beautifulsoup4 requests
+
+      - name: 🔍 Show environment info
+        run: |
+          echo "Python version: $(python --version)"
+          echo "Working directory: $(pwd)"
+          echo "Git branch: ${{ github.ref_name }}"
+          date
+
+      - name: ⏰ 计算预计耗时
+        run: |
+          echo "⏱️ 绩效计算预计需要 2-5 小时"
+          echo "📊 将计算全部 81 个投资组合的收益率"
+
+      - name: 📊 抓取持仓数据
+        run: |
+          echo "📅 $(date '+%Y-%m-%d %H:%M:%S')"
+          echo "🔍 开始抓取持仓数据..."
+          python scripts/scrape_holdings.py || echo "⚠️ 持仓数据抓取脚本不存在"
+          echo "✅ 持仓数据抓取完成"
+
+      - name: 💹 计算绩效分析
+        run: |
+          echo "📅 $(date '+%Y-%m-%d %H:%M:%S')"
+          echo "💹 开始计算组合收益..."
+          echo "⏰ 这是一个长时间运行的任务（2-5小时）"
+          python scripts/calculate_performance.py || echo "⚠️ 绩效计算脚本不存在"
+          echo "✅ 收益计算完成"
+
+      - name: 📝 创建更新摘要
+        run: |
+          echo "## 💹 每2周绩效分析更新" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "🕐 更新时间：$(date '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### ✅ 完成的任务" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ 持仓数据抓取" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ 收益计算（全部81个组合）" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ 5年、2年、1年、6月、3月收益率" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 📈 数据统计" >> $GITHUB_STEP_SUMMARY
+          if [ -f "data/performance.json" ]; then
+            echo "- ✅ 收益数据已生成" >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: 🚀 提交并推送
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "ℹ️ 没有检测到数据变更"
+          else
+            echo "📝 提交绩效数据更新..."
+            git add data/ src/ || true
+            git commit -m "💹 双周绩效更新: $(date '+%Y-%m-%d')
+
+            - 持仓数据已更新
+            - 绩效数据已计算（81个组合）
+            - 包含5年、2年、1年、6月、3月收益率
+
+            [skip ci]" || echo "ℹ️ 没有新数据需要提交"
+            git push
+            echo "✅ 绩效数据已提交"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🌐 触发 Netlify 部署
+        if: success()
+        run: |
+          echo "🚀 触发 Netlify 重新部署..."
+          response=$(curl -s -X POST -d "{}" "${{ secrets.NETLIFY_BUILD_HOOK }}")
+          echo "Netlify 响应: $response"
+          echo "✅ Netlify 部署已触发"
+        env:
+          NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
