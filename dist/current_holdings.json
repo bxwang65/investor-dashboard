@@ -1,0 +1,5357 @@
+[
+  {
+    "manager_id": "AKO",
+    "manager_name": "AKO Capital",
+    "portfolio_value": "$7.03 B",
+    "stock_count": "23",
+    "top_holdings": [
+      {
+        "symbol": "FLUT",
+        "company": "Flutter Entertainment Plc11.33% of portfolioReported Price*: $255.34",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ALC",
+        "company": "Alcon Inc.8.44% of portfolioReported Price*: $74.46",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.7.87% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.7.69% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "INTU",
+        "company": "Intuit Inc.6.55% of portfolioReported Price*: $682.91",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GE",
+        "company": "GE Aerospace5.65% of portfolioReported Price*: $300.82",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.5.64% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MCO",
+        "company": "Moody's Corp.5.20% of portfolioReported Price*: $476.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MMC",
+        "company": "Marsh & McLennan5.16% of portfolioReported Price*: $201.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ICE",
+        "company": "Intercontinental Exchange Inc.4.99% of portfolioReported Price*: $168.48",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.355657"
+  },
+  {
+    "manager_id": "AIM",
+    "manager_name": "Alex Roepers - Atlantic Investment Management",
+    "portfolio_value": "$174 M",
+    "stock_count": "11",
+    "top_holdings": [
+      {
+        "symbol": "GTLS",
+        "company": "Chart Industries Inc.16.95% of portfolioReported Price*: $200.15",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "APTV",
+        "company": "Aptiv PLC15.12% of portfolioReported Price*: $86.22",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WFRD",
+        "company": "Weatherford International plc14.17% of portfolioReported Price*: $68.43",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AXTA",
+        "company": "Axalta Coating Systems Ltd.12.56% of portfolioReported Price*: $28.62",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OSK",
+        "company": "Oshkosh Corp.11.10% of portfolioReported Price*: $129.70",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ASH",
+        "company": "Ashland Global Holdings Inc.7.81% of portfolioReported Price*: $47.91",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GPK",
+        "company": "Graphic Packaging Hldg Co.7.26% of portfolioReported Price*: $19.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NOMD",
+        "company": "Nomad Foods Ltd5.45% of portfolioReported Price*: $13.15",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PVH",
+        "company": "PVH Corp.4.81% of portfolioReported Price*: $83.77",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DOLE",
+        "company": "Dole Food Company2.55% of portfolioReported Price*: $13.44",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.355861"
+  },
+  {
+    "manager_id": "AP",
+    "manager_name": "AltaRock Partners",
+    "portfolio_value": "$5.47 B",
+    "stock_count": "9",
+    "top_holdings": [
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.30.34% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.24.33% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TDG",
+        "company": "TransDigm Group Inc.23.53% of portfolioReported Price*: $1318.02",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MCO",
+        "company": "Moody's Corp.8.27% of portfolioReported Price*: $476.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MA",
+        "company": "Mastercard Inc.6.07% of portfolioReported Price*: $568.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.3.33% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HLT",
+        "company": "Hilton Worldwide Holdings2.57% of portfolioReported Price*: $259.44",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.1.53% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FICO",
+        "company": "Fair Isaac Corp.0.02% of portfolioReported Price*: $1496.25",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.356047"
+  },
+  {
+    "manager_id": "GFT",
+    "manager_name": "Bill & Melinda Gates Foundation Trust",
+    "portfolio_value": "$36.6 B",
+    "stock_count": "23",
+    "top_holdings": [
+      {
+        "symbol": "BRK.B",
+        "company": "Berkshire Hathaway CL B29.91% of portfolioReported Price*: $502.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WM",
+        "company": "Waste Management Inc.17.47% of portfolioReported Price*: $220.83",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CNI",
+        "company": "Canadian Natl Railway Co.13.36% of portfolioReported Price*: $94.30",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.13.01% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CAT",
+        "company": "Caterpillar Inc.8.29% of portfolioReported Price*: $477.15",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DE",
+        "company": "Deere & Co.4.45% of portfolioReported Price*: $457.26",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ECL",
+        "company": "Ecolab Inc.3.91% of portfolioReported Price*: $273.86",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WMT",
+        "company": "Walmart Inc.2.36% of portfolioReported Price*: $103.06",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FDX",
+        "company": "FedEx Corp.1.54% of portfolioReported Price*: $235.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "KOF",
+        "company": "Coca-Cola FEMSA S A CV1.41% of portfolioReported Price*: $83.10",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.356243"
+  },
+  {
+    "manager_id": "psc",
+    "manager_name": "Bill Ackman - Pershing Square Capital Management",
+    "portfolio_value": "$14.6 B",
+    "stock_count": "11",
+    "top_holdings": [
+      {
+        "symbol": "UBER",
+        "company": "Uber Technologies Inc.20.25% of portfolioReported Price*: $97.97",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BN",
+        "company": "Brookfield Corp.19.21% of portfolioReported Price*: $45.72",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HHH",
+        "company": "Howard Hughes Holdings Inc.10.58% of portfolioReported Price*: $82.17",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C10.52% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "QSR",
+        "company": "Restaurant Brands International10.04% of portfolioReported Price*: $64.14",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.8.73% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.8.04% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CMG",
+        "company": "Chipotle Mexican Grill Inc.5.77% of portfolioReported Price*: $39.19",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HLT",
+        "company": "Hilton Worldwide Holdings5.37% of portfolioReported Price*: $259.44",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SEG",
+        "company": "Seaport Entertainment Group0.79% of portfolioReported Price*: $22.92",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.356443"
+  },
+  {
+    "manager_id": "LMM",
+    "manager_name": "Bill Miller - Miller Value Partners",
+    "portfolio_value": "$272 M",
+    "stock_count": "36",
+    "top_holdings": [
+      {
+        "symbol": "NBR",
+        "company": "Nabors Industries Ltd.10.11% of portfolioReported Price*: $40.87",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LNC",
+        "company": "Lincoln National7.72% of portfolioReported Price*: $40.33",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GTN",
+        "company": "Gray Television Inc.7.56% of portfolioReported Price*: $5.78",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "QUAD",
+        "company": "Quad/Graphics Inc.6.03% of portfolioReported Price*: $6.26",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BFH",
+        "company": "Bread Financial Holdings Inc.5.53% of portfolioReported Price*: $55.77",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TDAY",
+        "company": "Gannett Co.5.16% of portfolioReported Price*: $4.13",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CNDT",
+        "company": "Conduent Inc.4.15% of portfolioReported Price*: $2.80",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AXL",
+        "company": "American Axle & Manufacturing Holdings3.79% of portfolioReported Price*: $6.01",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "JELD",
+        "company": "JELD-WEN Holding Inc.3.73% of portfolioReported Price*: $4.91",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "JXN",
+        "company": "Jackson Financial Inc.3.49% of portfolioReported Price*: $101.23",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.356636"
+  },
+  {
+    "manager_id": "oaklx",
+    "manager_name": "Bill Nygren - Oakmark Select Fund",
+    "portfolio_value": "$7.19 B",
+    "stock_count": "26",
+    "top_holdings": [
+      {
+        "symbol": "IQV",
+        "company": "IQVIA Holdings Inc.7.03% of portfolioReported Price*: $189.94",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WBD",
+        "company": "Warner Bros. Discovery Inc.6.10% of portfolioReported Price*: $19.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PSX",
+        "company": "Phillips 666.03% of portfolioReported Price*: $136.02",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FCNCA",
+        "company": "First Citizens Bancshares5.78% of portfolioReported Price*: $1789.16",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LAD",
+        "company": "Lithia Motors Inc.5.75% of portfolioReported Price*: $316.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ABNB",
+        "company": "Airbnb Inc.5.47% of portfolioReported Price*: $121.42",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.5.31% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CRM",
+        "company": "Salesforce.com5.05% of portfolioReported Price*: $237.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EFX",
+        "company": "Equifax Inc.4.54% of portfolioReported Price*: $256.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SCHW",
+        "company": "Charles Schwab Corp.4.50% of portfolioReported Price*: $95.47",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.356821"
+  },
+  {
+    "manager_id": "fairx",
+    "manager_name": "Bruce Berkowitz - Fairholme Capital",
+    "portfolio_value": "$1.24 B",
+    "stock_count": "12",
+    "top_holdings": [
+      {
+        "symbol": "JOE",
+        "company": "St. Joe Co.78.19% of portfolioReported Price*: $49.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EPD",
+        "company": "Enterprise Products Partners LP13.76% of portfolioReported Price*: $31.27",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OZK",
+        "company": "Bank OZK3.77% of portfolioReported Price*: $50.98",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.B",
+        "company": "Berkshire Hathaway CL B1.97% of portfolioReported Price*: $502.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WRB",
+        "company": "W.R. Berkley Corp.1.62% of portfolioReported Price*: $76.62",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OXY",
+        "company": "Occidental Petroleum0.26% of portfolioReported Price*: $47.25",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ET",
+        "company": "Energy Transfer LP0.23% of portfolioReported Price*: $17.16",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.A",
+        "company": "Berkshire Hathaway CL A0.06% of portfolioReported Price*: $754000.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AAPL",
+        "company": "Apple Inc.0.05% of portfolioReported Price*: $254.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FANG",
+        "company": "Diamondback Energy Inc.0.05% of portfolioReported Price*: $143.00",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.357007"
+  },
+  {
+    "manager_id": "OCL",
+    "manager_name": "Bryan Lawrence - Oakcliff Capital",
+    "portfolio_value": "$232 M",
+    "stock_count": "8",
+    "top_holdings": [
+      {
+        "symbol": "IBKR",
+        "company": "Interactive Brokers Group Inc.30.61% of portfolioReported Price*: $68.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GIL",
+        "company": "Gildan Activewear Inc.17.01% of portfolioReported Price*: $57.80",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TDG",
+        "company": "TransDigm Group Inc.13.75% of portfolioReported Price*: $1318.04",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C12.42% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NRP",
+        "company": "Natural Resource Partners7.66% of portfolioReported Price*: $105.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GWRE",
+        "company": "Guidewire Software Inc.6.52% of portfolioReported Price*: $229.86",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LEN",
+        "company": "Lennar Corp.6.42% of portfolioReported Price*: $126.04",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SGU",
+        "company": "Star Gas Partners LP5.61% of portfolioReported Price*: $11.83",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.357165"
+  },
+  {
+    "manager_id": "ic",
+    "manager_name": "Carl Icahn - Icahn Capital Management",
+    "portfolio_value": "$9.14 B",
+    "stock_count": "13",
+    "top_holdings": [
+      {
+        "symbol": "IEP",
+        "company": "Icahn Enterprises47.80% of portfolioReported Price*: $8.42",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CVI",
+        "company": "CVR Energy Inc.28.10% of portfolioReported Price*: $36.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SWX",
+        "company": "Southwest Gas Holdings Inc.5.17% of portfolioReported Price*: $78.34",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "UAN",
+        "company": "CVR Partners LP4.11% of portfolioReported Price*: $90.12",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SATS",
+        "company": "EchoStar Corp.3.64% of portfolioReported Price*: $76.36",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IFF",
+        "company": "International Flavors & Fragrances Inc.3.20% of portfolioReported Price*: $61.54",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CTRI",
+        "company": "Centuri Holdings Inc2.51% of portfolioReported Price*: $21.17",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "JBLU",
+        "company": "JetBlue Airways Corp.1.81% of portfolioReported Price*: $4.92",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AEP",
+        "company": "American Electric Power1.48% of portfolioReported Price*: $112.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CZR",
+        "company": "Caesars Entertainment0.72% of portfolioReported Price*: $27.03",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.357350"
+  },
+  {
+    "manager_id": "ARFFX",
+    "manager_name": "Charles Bobrinskoy - Ariel Focus Fund",
+    "portfolio_value": "$75 M",
+    "stock_count": "27",
+    "top_holdings": [
+      {
+        "symbol": "JNJ",
+        "company": "Johnson & Johnson5.91% of portfolioReported Price*: $185.43",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "REZI",
+        "company": "Resideo Technologies Inc.5.59% of portfolioReported Price*: $43.18",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BOKF",
+        "company": "BOK Financial Corp.5.33% of portfolioReported Price*: $111.45",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMG",
+        "company": "Affiliated Managers Group5.23% of portfolioReported Price*: $238.40",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SNA",
+        "company": "Snap-On Inc.4.95% of portfolioReported Price*: $346.56",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PHIN",
+        "company": "PHINIA Inc.4.95% of portfolioReported Price*: $57.49",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BAC",
+        "company": "Bank of America Corp.4.93% of portfolioReported Price*: $51.59",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "B",
+        "company": "Barrick Mining Corp.4.92% of portfolioReported Price*: $32.77",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MHK",
+        "company": "Mohawk Industries4.92% of portfolioReported Price*: $128.91",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "APA",
+        "company": "APA Corp.4.55% of portfolioReported Price*: $24.28",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.357536"
+  },
+  {
+    "manager_id": "TGM",
+    "manager_name": "Chase Coleman - Tiger Global Management",
+    "portfolio_value": "$32.4 B",
+    "stock_count": "56",
+    "top_holdings": [
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.10.49% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SE",
+        "company": "Sea Ltd8.86% of portfolioReported Price*: $178.73",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.7.99% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.7.49% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NVDA",
+        "company": "NVIDIA Corp.6.75% of portfolioReported Price*: $186.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.6.40% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TTWO",
+        "company": "Take-Two Interactive Software4.66% of portfolioReported Price*: $258.36",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "APP",
+        "company": "Applovin Corp.4.45% of portfolioReported Price*: $718.54",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TSM",
+        "company": "Taiwan Semiconductor S.A.3.95% of portfolioReported Price*: $279.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RDDT",
+        "company": "Reddit Inc Cl A3.32% of portfolioReported Price*: $229.99",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.357725"
+  },
+  {
+    "manager_id": "tci",
+    "manager_name": "Chris Hohn - TCI Fund Management",
+    "portfolio_value": "$52.7 B",
+    "stock_count": "9",
+    "top_holdings": [
+      {
+        "symbol": "GE",
+        "company": "GE Aerospace27.12% of portfolioReported Price*: $300.82",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.18.18% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.16.31% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MCO",
+        "company": "Moody's Corp.12.03% of portfolioReported Price*: $476.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SPGI",
+        "company": "S&P Global Inc.10.33% of portfolioReported Price*: $486.71",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CP",
+        "company": "Canadian Pacific Kansas City7.05% of portfolioReported Price*: $74.47",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C3.51% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CNI",
+        "company": "Canadian Natl Railway Co.3.36% of portfolioReported Price*: $94.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FER",
+        "company": "Ferrovial Se2.11% of portfolioReported Price*: $57.24",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.357908"
+  },
+  {
+    "manager_id": "SA",
+    "manager_name": "Christopher Bloomstran - Semper Augustus",
+    "portfolio_value": "$801 M",
+    "stock_count": "38",
+    "top_holdings": [
+      {
+        "symbol": "BRK.B",
+        "company": "Berkshire Hathaway CL B15.70% of portfolioReported Price*: $502.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DG",
+        "company": "Dollar General11.94% of portfolioReported Price*: $103.35",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.A",
+        "company": "Berkshire Hathaway CL A10.92% of portfolioReported Price*: $754198.28",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "KGC",
+        "company": "Kinross Gold Corp.8.03% of portfolioReported Price*: $24.85",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NEM",
+        "company": "Newmont Corp.7.14% of portfolioReported Price*: $84.31",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OLN",
+        "company": "Olin Corp.6.00% of portfolioReported Price*: $24.99",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DLTR",
+        "company": "Dollar Tree Inc.5.95% of portfolioReported Price*: $94.37",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FIVE",
+        "company": "Five Below Inc.5.95% of portfolioReported Price*: $154.70",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DECK",
+        "company": "Deckers Outdoor4.74% of portfolioReported Price*: $101.37",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VLO",
+        "company": "Valero Energy4.24% of portfolioReported Price*: $170.26",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.358101"
+  },
+  {
+    "manager_id": "DAV",
+    "manager_name": "Christopher Davis - Davis Advisors",
+    "portfolio_value": "$19.2 B",
+    "stock_count": "107",
+    "top_holdings": [
+      {
+        "symbol": "COF",
+        "company": "Capital One Financial9.30% of portfolioReported Price*: $212.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.6.58% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMAT",
+        "company": "Applied Materials5.94% of portfolioReported Price*: $204.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "USB",
+        "company": "U.S. Bancorp4.90% of portfolioReported Price*: $48.33",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CVS",
+        "company": "CVS Health Corp.4.49% of portfolioReported Price*: $75.39",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MGM",
+        "company": "MGM Resorts International4.33% of portfolioReported Price*: $34.66",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.A",
+        "company": "Berkshire Hathaway CL A3.93% of portfolioReported Price*: $754200.40",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MKL",
+        "company": "Markel Group Inc.3.73% of portfolioReported Price*: $1911.36",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.3.60% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VTRS",
+        "company": "Viatris Inc.3.58% of portfolioReported Price*: $9.90",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.358293"
+  },
+  {
+    "manager_id": "AC",
+    "manager_name": "Chuck Akre - Akre Capital Management",
+    "portfolio_value": "$10 B",
+    "stock_count": "19",
+    "top_holdings": [
+      {
+        "symbol": "MA",
+        "company": "Mastercard Inc.17.89% of portfolioReported Price*: $568.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BN",
+        "company": "Brookfield Corp.13.14% of portfolioReported Price*: $45.72",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "KKR",
+        "company": "KKR & Co. L.P.11.29% of portfolioReported Price*: $129.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.10.12% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MCO",
+        "company": "Moody's Corp.10.07% of portfolioReported Price*: $476.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ORLY",
+        "company": "O'Reilly Automotive9.26% of portfolioReported Price*: $107.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CSGP",
+        "company": "CoStar Group Inc.7.83% of portfolioReported Price*: $84.37",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ROP",
+        "company": "Roper Technologies Inc.5.75% of portfolioReported Price*: $498.69",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ABNB",
+        "company": "Airbnb Inc.4.20% of portfolioReported Price*: $121.42",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FICO",
+        "company": "Fair Isaac Corp.3.89% of portfolioReported Price*: $1496.53",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.358483"
+  },
+  {
+    "manager_id": "CAS",
+    "manager_name": "Clifford Sosin - CAS Investment Partners",
+    "portfolio_value": "$2.24 B",
+    "stock_count": "5",
+    "top_holdings": [
+      {
+        "symbol": "CVNA",
+        "company": "Carvana Co.82.26% of portfolioReported Price*: $377.24",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HGV",
+        "company": "Hilton Grand Vacations Inc.10.52% of portfolioReported Price*: $41.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "COF",
+        "company": "Capital One Financial6.31% of portfolioReported Price*: $212.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CDLX",
+        "company": "Cardlytics Inc.0.56% of portfolioReported Price*: $2.43",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SWIM",
+        "company": "Latham Group Inc0.34% of portfolioReported Price*: $7.61",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.358604"
+  },
+  {
+    "manager_id": "tp",
+    "manager_name": "Daniel Loeb - Third Point",
+    "portfolio_value": "$8.3 B",
+    "stock_count": "41",
+    "top_holdings": [
+      {
+        "symbol": "PCG",
+        "company": "PG&E Corp.9.10% of portfolioReported Price*: $15.08",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.7.43% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.6.86% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NVDA",
+        "company": "NVIDIA Corp.6.40% of portfolioReported Price*: $186.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NSC",
+        "company": "Norfolk Southern Corp.5.97% of portfolioReported Price*: $300.41",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BN",
+        "company": "Brookfield Corp.3.86% of portfolioReported Price*: $45.72",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TSM",
+        "company": "Taiwan Semiconductor S.A.3.70% of portfolioReported Price*: $279.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "COF",
+        "company": "Capital One Financial3.55% of portfolioReported Price*: $212.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FLUT",
+        "company": "Flutter Entertainment Plc3.43% of portfolioReported Price*: $254.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CASY",
+        "company": "Casey's Gen'l Stores3.40% of portfolioReported Price*: $565.32",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.358794"
+  },
+  {
+    "manager_id": "abc",
+    "manager_name": "David Abrams - Abrams Capital Management",
+    "portfolio_value": "$6.17 B",
+    "stock_count": "13",
+    "top_holdings": [
+      {
+        "symbol": "LOAR",
+        "company": "Loar Holdings Inc41.56% of portfolioReported Price*: $80.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LAD",
+        "company": "Lithia Motors Inc.12.76% of portfolioReported Price*: $316.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ABG",
+        "company": "Asbury Automotive Group Inc.8.54% of portfolioReported Price*: $244.45",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.8.37% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SGI",
+        "company": "Somnigroup International Inc.7.99% of portfolioReported Price*: $84.33",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CPNG",
+        "company": "Coupang Inc.6.79% of portfolioReported Price*: $32.20",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.4.70% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WTW",
+        "company": "Willis Towers Watson plc4.04% of portfolioReported Price*: $345.45",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "UHAL.B",
+        "company": "U Haul Holding Co Non Voting2.68% of portfolioReported Price*: $50.90",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ET",
+        "company": "Energy Transfer LP1.73% of portfolioReported Price*: $17.16",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.358982"
+  },
+  {
+    "manager_id": "GLRE",
+    "manager_name": "David Einhorn - Greenlight Capital",
+    "portfolio_value": "$2.54 B",
+    "stock_count": "37",
+    "top_holdings": [
+      {
+        "symbol": "GRBK",
+        "company": "Green Brick Partners27.51% of portfolioReported Price*: $73.86",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FLR",
+        "company": "Fluor Corp.9.13% of portfolioReported Price*: $42.07",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CNR",
+        "company": "Core Natural Resources Inc.7.08% of portfolioReported Price*: $83.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BHF",
+        "company": "Brighthouse Financial Inc.5.83% of portfolioReported Price*: $53.08",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "KD",
+        "company": "Kyndryl Holdings Inc5.13% of portfolioReported Price*: $30.03",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PENN",
+        "company": "Penn National Gaming Inc.5.13% of portfolioReported Price*: $19.26",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PCG",
+        "company": "PG&E Corp.3.79% of portfolioReported Price*: $15.08",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GPK",
+        "company": "Graphic Packaging Hldg Co.3.62% of portfolioReported Price*: $19.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DHT",
+        "company": "DHT Holdings Inc.3.58% of portfolioReported Price*: $11.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TEVA",
+        "company": "Teva Pharmaceutical Industries Ltd.3.00% of portfolioReported Price*: $20.20",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.359172"
+  },
+  {
+    "manager_id": "MAVFX",
+    "manager_name": "David Katz - Matrix Asset Advisors",
+    "portfolio_value": "$1.08 B",
+    "stock_count": "107",
+    "top_holdings": [
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.6.82% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MAVF",
+        "company": "Matrix Advisors Value ETF4.49% of portfolioReported Price*: $116.82",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "JPM",
+        "company": "JPMorgan Chase & Co.4.06% of portfolioReported Price*: $315.43",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MS",
+        "company": "Morgan Stanley3.96% of portfolioReported Price*: $158.96",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C3.63% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PNC",
+        "company": "PNC Financial Services3.55% of portfolioReported Price*: $200.93",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AAPL",
+        "company": "Apple Inc.3.51% of portfolioReported Price*: $254.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "QCOM",
+        "company": "QUALCOMM Inc.3.35% of portfolioReported Price*: $166.36",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MDT",
+        "company": "Medtronic plc3.27% of portfolioReported Price*: $95.24",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "USB",
+        "company": "U.S. Bancorp3.21% of portfolioReported Price*: $48.33",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.359368"
+  },
+  {
+    "manager_id": "WP",
+    "manager_name": "David Rolfe - Wedgewood Partners",
+    "portfolio_value": "$548 M",
+    "stock_count": "19",
+    "top_holdings": [
+      {
+        "symbol": "TSM",
+        "company": "Taiwan Semiconductor S.A.9.65% of portfolioReported Price*: $279.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.9.46% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.9.19% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AAPL",
+        "company": "Apple Inc.7.76% of portfolioReported Price*: $254.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.7.49% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PYPL",
+        "company": "PayPal Holdings Inc.5.93% of portfolioReported Price*: $67.06",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BKNG",
+        "company": "Booking Holdings Inc.5.81% of portfolioReported Price*: $5399.49",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.5.55% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TSCO",
+        "company": "Tractor Supply5.09% of portfolioReported Price*: $56.87",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSI",
+        "company": "Motorola Solutions Inc.4.80% of portfolioReported Price*: $457.29",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.359553"
+  },
+  {
+    "manager_id": "AM",
+    "manager_name": "David Tepper - Appaloosa Management",
+    "portfolio_value": "$7.38 B",
+    "stock_count": "45",
+    "top_holdings": [
+      {
+        "symbol": "BABA",
+        "company": "Alibaba Group Holdings15.61% of portfolioReported Price*: $178.73",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.7.43% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WHR",
+        "company": "Whirlpool Corp.5.85% of portfolioReported Price*: $78.60",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NVDA",
+        "company": "NVIDIA Corp.4.80% of portfolioReported Price*: $186.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C4.58% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "KWEB",
+        "company": "Kraneshares Csi China Intern4.21% of portfolioReported Price*: $42.01",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NRG",
+        "company": "NRG Energy Inc.4.10% of portfolioReported Price*: $161.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TSM",
+        "company": "Taiwan Semiconductor S.A.4.01% of portfolioReported Price*: $279.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.3.68% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VST",
+        "company": "Vistra Corp.3.30% of portfolioReported Price*: $195.92",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.359743"
+  },
+  {
+    "manager_id": "SP",
+    "manager_name": "Dennis Hong - ShawSpring Partners",
+    "portfolio_value": "$673 M",
+    "stock_count": "11",
+    "top_holdings": [
+      {
+        "symbol": "FOUR",
+        "company": "Shift4 Payments Inc. CL A14.40% of portfolioReported Price*: $77.40",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OKTA",
+        "company": "Okta Inc.13.50% of portfolioReported Price*: $91.70",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PCOR",
+        "company": "Procore Technologies Inc.11.69% of portfolioReported Price*: $72.92",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "INTU",
+        "company": "Intuit Inc.11.61% of portfolioReported Price*: $682.91",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CSGP",
+        "company": "CoStar Group Inc.11.24% of portfolioReported Price*: $84.37",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MNDY",
+        "company": "monday.com Ltd.10.78% of portfolioReported Price*: $193.69",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRZE",
+        "company": "Braze Inc A7.82% of portfolioReported Price*: $28.44",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NCNO",
+        "company": "nCino Inc.6.26% of portfolioReported Price*: $27.11",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BLND",
+        "company": "Blend Labs Inc.5.34% of portfolioReported Price*: $3.65",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VERX",
+        "company": "Vertex Inc.3.99% of portfolioReported Price*: $24.79",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.359931"
+  },
+  {
+    "manager_id": "DODGX",
+    "manager_name": "Dodge & Cox",
+    "portfolio_value": "$118.5 B",
+    "stock_count": "82",
+    "top_holdings": [
+      {
+        "symbol": "SCHW",
+        "company": "Charles Schwab Corp.4.62% of portfolioReported Price*: $95.47",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RTX",
+        "company": "RTX Corp.3.83% of portfolioReported Price*: $167.33",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CVS",
+        "company": "CVS Health Corp.3.07% of portfolioReported Price*: $75.39",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "JCI",
+        "company": "Johnson Controls Intl. plc2.99% of portfolioReported Price*: $109.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FISV",
+        "company": "Fiserv Inc.2.89% of portfolioReported Price*: $128.93",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MET",
+        "company": "MetLife Inc.2.73% of portfolioReported Price*: $82.37",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BK",
+        "company": "Bank of New York Mellon Corp.2.42% of portfolioReported Price*: $108.96",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FDX",
+        "company": "FedEx Corp.2.20% of portfolioReported Price*: $235.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OXY",
+        "company": "Occidental Petroleum2.18% of portfolioReported Price*: $47.25",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.2.15% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.360113"
+  },
+  {
+    "manager_id": "HH",
+    "manager_name": "Duan Yongping - H&H International Investment",
+    "portfolio_value": "$14.7 B",
+    "stock_count": "11",
+    "top_holdings": [
+      {
+        "symbol": "AAPL",
+        "company": "Apple Inc.60.42% of portfolioReported Price*: $254.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.B",
+        "company": "Berkshire Hathaway CL B17.78% of portfolioReported Price*: $502.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PDD",
+        "company": "Pinduoduo Inc.7.72% of portfolioReported Price*: $132.17",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OXY",
+        "company": "Occidental Petroleum4.36% of portfolioReported Price*: $47.25",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BABA",
+        "company": "Alibaba Group Holdings3.38% of portfolioReported Price*: $178.73",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C3.00% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.0.99% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NVDA",
+        "company": "NVIDIA Corp.0.76% of portfolioReported Price*: $186.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DIS",
+        "company": "Walt Disney Co.0.56% of portfolioReported Price*: $114.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ASML",
+        "company": "ASML Holding NV0.53% of portfolioReported Price*: $968.09",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.360306"
+  },
+  {
+    "manager_id": "FE",
+    "manager_name": "First Eagle Investment Management",
+    "portfolio_value": "$54.8 B",
+    "stock_count": "401",
+    "top_holdings": [
+      {
+        "symbol": "ORCL",
+        "company": "Oracle Corp.4.53% of portfolioReported Price*: $281.24",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.4.46% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WPM",
+        "company": "Wheaton Precious Metals Corp.3.50% of portfolioReported Price*: $111.84",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BDX",
+        "company": "Becton Dickinson3.41% of portfolioReported Price*: $187.17",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TSM",
+        "company": "Taiwan Semiconductor S.A.3.41% of portfolioReported Price*: $279.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C3.34% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IMO",
+        "company": "Imperial Oil Ltd.3.33% of portfolioReported Price*: $90.66",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HCA",
+        "company": "HCA Healthcare Inc.3.05% of portfolioReported Price*: $426.20",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WTW",
+        "company": "Willis Towers Watson plc2.69% of portfolioReported Price*: $345.45",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CHRW",
+        "company": "C.H. Robinson Worldwide2.55% of portfolioReported Price*: $132.40",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.360499"
+  },
+  {
+    "manager_id": "FPPTX",
+    "manager_name": "FPA Queens Road Small Cap Value Fund",
+    "portfolio_value": "$960 M",
+    "stock_count": "46",
+    "top_holdings": [
+      {
+        "symbol": "FN",
+        "company": "Fabrinet5.32% of portfolioReported Price*: $364.62",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IDCC",
+        "company": "InterDigital Inc.5.32% of portfolioReported Price*: $345.23",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SNX",
+        "company": "SYNNEX Corp.4.85% of portfolioReported Price*: $163.75",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RLI",
+        "company": "RLI Corp.4.80% of portfolioReported Price*: $65.22",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "UGI",
+        "company": "UGI Corp.3.60% of portfolioReported Price*: $33.26",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PVH",
+        "company": "PVH Corp.3.24% of portfolioReported Price*: $83.77",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SFBS",
+        "company": "ServisFirst Bancshares Inc.3.23% of portfolioReported Price*: $80.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "REVG",
+        "company": "REV Group Inc.3.18% of portfolioReported Price*: $56.67",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OSK",
+        "company": "Oshkosh Corp.3.18% of portfolioReported Price*: $129.70",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ARW",
+        "company": "Arrow Electronics2.89% of portfolioReported Price*: $121.00",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.360692"
+  },
+  {
+    "manager_id": "ca",
+    "manager_name": "Francis Chou - Chou Associates",
+    "portfolio_value": "$208 M",
+    "stock_count": "31",
+    "top_holdings": [
+      {
+        "symbol": "BRK.A",
+        "company": "Berkshire Hathaway CL A31.22% of portfolioReported Price*: $754197.67",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C9.66% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SIRI",
+        "company": "SiriusXM Holdings Inc7.87% of portfolioReported Price*: $23.28",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SYF",
+        "company": "Synchrony Financial7.38% of portfolioReported Price*: $71.05",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OXY",
+        "company": "Occidental Petroleum7.12% of portfolioReported Price*: $47.25",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "STLA",
+        "company": "Stellantis N.V.6.27% of portfolioReported Price*: $9.34",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AAPL",
+        "company": "Apple Inc.5.39% of portfolioReported Price*: $254.64",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ALLY",
+        "company": "Ally Financial Inc.4.26% of portfolioReported Price*: $39.20",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BABA",
+        "company": "Alibaba Group Holdings3.61% of portfolioReported Price*: $178.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "C",
+        "company": "Citigroup Inc.2.82% of portfolioReported Price*: $101.50",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.360880"
+  },
+  {
+    "manager_id": "GC",
+    "manager_name": "Francois Rochon - Giverny Capital",
+    "portfolio_value": "$2.95 B",
+    "stock_count": "52",
+    "top_holdings": [
+      {
+        "symbol": "BRK.B",
+        "company": "Berkshire Hathaway CL B8.70% of portfolioReported Price*: $502.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.7.76% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HEI.A",
+        "company": "HEICO Corp. CL A6.45% of portfolioReported Price*: $254.09",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AME",
+        "company": "Ametek Inc.6.35% of portfolioReported Price*: $188.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C5.27% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SCHW",
+        "company": "Charles Schwab Corp.5.10% of portfolioReported Price*: $95.47",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.4.69% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MEDP",
+        "company": "Medpace Holdings Inc.4.56% of portfolioReported Price*: $514.16",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PGR",
+        "company": "Progressive Corp.4.47% of portfolioReported Price*: $246.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IBP",
+        "company": "Installed Building Products4.30% of portfolioReported Price*: $246.66",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.361068"
+  },
+  {
+    "manager_id": "CCM",
+    "manager_name": "Glenn Greenberg - Brave Warrior Advisors",
+    "portfolio_value": "$4.31 B",
+    "stock_count": "33",
+    "top_holdings": [
+      {
+        "symbol": "ELV",
+        "company": "Elevance Health Inc.13.76% of portfolioReported Price*: $323.12",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SNX",
+        "company": "SYNNEX Corp.12.45% of portfolioReported Price*: $163.75",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OMF",
+        "company": "OneMain Holdings10.22% of portfolioReported Price*: $56.46",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SLM",
+        "company": "SLM Corp.7.49% of portfolioReported Price*: $27.68",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AN",
+        "company": "AutoNation Inc.6.17% of portfolioReported Price*: $218.77",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LEN",
+        "company": "Lennar Corp.5.87% of portfolioReported Price*: $126.04",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RYAAY",
+        "company": "Ryanair Holdings PLC5.71% of portfolioReported Price*: $60.22",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MPLX",
+        "company": "MPLX LP5.18% of portfolioReported Price*: $49.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BLDR",
+        "company": "Builders FirstSource Inc.5.08% of portfolioReported Price*: $121.25",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FNF",
+        "company": "Fidelity National Financial Inc.4.90% of portfolioReported Price*: $60.49",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.361335"
+  },
+  {
+    "manager_id": "ENG",
+    "manager_name": "Glenn Welling - Engaged Capital",
+    "portfolio_value": "$408 M",
+    "stock_count": "9",
+    "top_holdings": [
+      {
+        "symbol": "VFC",
+        "company": "V.F. Corp.20.75% of portfolioReported Price*: $14.43",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "YETI",
+        "company": "YETI Holdings Inc.17.66% of portfolioReported Price*: $33.18",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GXO",
+        "company": "Gxo Logistics Inc.12.70% of portfolioReported Price*: $52.89",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EVH",
+        "company": "Evolent Health Inc.11.75% of portfolioReported Price*: $8.46",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CGNX",
+        "company": "Cognex Corp.9.50% of portfolioReported Price*: $45.30",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FRPT",
+        "company": "Freshpet Inc.8.37% of portfolioReported Price*: $55.11",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PTLO",
+        "company": "Portillo's Inc Cl A8.02% of portfolioReported Price*: $6.45",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BL",
+        "company": "BlackLine Inc.5.91% of portfolioReported Price*: $53.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRCC",
+        "company": "BRC Inc.5.33% of portfolioReported Price*: $1.56",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.361539"
+  },
+  {
+    "manager_id": "GA",
+    "manager_name": "Greenhaven Associates",
+    "portfolio_value": "$6.58 B",
+    "stock_count": "27",
+    "top_holdings": [
+      {
+        "symbol": "GM",
+        "company": "General Motors21.39% of portfolioReported Price*: $60.97",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LEN",
+        "company": "Lennar Corp.18.50% of portfolioReported Price*: $126.04",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TOL",
+        "company": "Toll Brothers11.72% of portfolioReported Price*: $138.14",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PHM",
+        "company": "PulteGroup Inc.11.19% of portfolioReported Price*: $132.13",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DHI",
+        "company": "D.R. Horton9.38% of portfolioReported Price*: $169.47",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OSK",
+        "company": "Oshkosh Corp.4.98% of portfolioReported Price*: $129.70",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ARW",
+        "company": "Arrow Electronics3.49% of portfolioReported Price*: $121.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AVTR",
+        "company": "Avantor Inc.3.48% of portfolioReported Price*: $12.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AVT",
+        "company": "Avnet Inc.3.12% of portfolioReported Price*: $52.28",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LEA",
+        "company": "Lear Corp.2.75% of portfolioReported Price*: $100.61",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.361735"
+  },
+  {
+    "manager_id": "CM",
+    "manager_name": "Greg Alexander - Conifer Management",
+    "portfolio_value": "$631 M",
+    "stock_count": "5",
+    "top_holdings": [
+      {
+        "symbol": "GPI",
+        "company": "Group 1 Automotive39.41% of portfolioReported Price*: $437.51",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EQH",
+        "company": "Equitable Holdings Inc.33.80% of portfolioReported Price*: $50.78",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LAD",
+        "company": "Lithia Motors Inc.20.03% of portfolioReported Price*: $316.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RMNI",
+        "company": "Rimini Street Inc.4.39% of portfolioReported Price*: $4.68",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SDHC",
+        "company": "Smith Douglas Homes Corp2.38% of portfolioReported Price*: $17.66",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.361865"
+  },
+  {
+    "manager_id": "aq",
+    "manager_name": "Guy Spier - Aquamarine Capital",
+    "portfolio_value": "$317 M",
+    "stock_count": "14",
+    "top_holdings": [
+      {
+        "symbol": "BRK.B",
+        "company": "Berkshire Hathaway CL B22.27% of portfolioReported Price*: $502.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AXP",
+        "company": "American Express21.98% of portfolioReported Price*: $332.16",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BAC",
+        "company": "Bank of America Corp.12.48% of portfolioReported Price*: $51.59",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MA",
+        "company": "Mastercard Inc.11.78% of portfolioReported Price*: $568.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RACE",
+        "company": "Ferrari NV9.13% of portfolioReported Price*: $482.97",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.A",
+        "company": "Berkshire Hathaway CL A7.13% of portfolioReported Price*: $754200.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MU",
+        "company": "Micron Technology Inc.4.22% of portfolioReported Price*: $167.33",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MCO",
+        "company": "Moody's Corp.4.05% of portfolioReported Price*: $476.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BABA",
+        "company": "Alibaba Group Holdings2.68% of portfolioReported Price*: $178.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DJCO",
+        "company": "Daily Journal Corp.1.69% of portfolioReported Price*: $465.13",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.362066"
+  },
+  {
+    "manager_id": "SSHFX",
+    "manager_name": "Harry Burn - Sound Shore",
+    "portfolio_value": "$3.03 B",
+    "stock_count": "38",
+    "top_holdings": [
+      {
+        "symbol": "TEVA",
+        "company": "Teva Pharmaceutical Industries Ltd.3.77% of portfolioReported Price*: $20.20",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "C",
+        "company": "Citigroup Inc.3.32% of portfolioReported Price*: $101.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CTRA",
+        "company": "Coterra Energy Inc.3.32% of portfolioReported Price*: $23.65",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BAC",
+        "company": "Bank of America Corp.3.21% of portfolioReported Price*: $51.59",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "COF",
+        "company": "Capital One Financial3.21% of portfolioReported Price*: $212.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "QCOM",
+        "company": "QUALCOMM Inc.3.13% of portfolioReported Price*: $166.36",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FIS",
+        "company": "Fidelity National Information Services3.04% of portfolioReported Price*: $65.94",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GM",
+        "company": "General Motors3.00% of portfolioReported Price*: $60.97",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HOLX",
+        "company": "Hologic Inc.2.98% of portfolioReported Price*: $67.49",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.B",
+        "company": "Berkshire Hathaway CL B2.98% of portfolioReported Price*: $502.74",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.362263"
+  },
+  {
+    "manager_id": "hcmax",
+    "manager_name": "Hillman Value Fund",
+    "portfolio_value": "$101 M",
+    "stock_count": "38",
+    "top_holdings": [
+      {
+        "symbol": "GSK",
+        "company": "GSK plc2.96% of portfolioReported Price*: $43.16",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PFE",
+        "company": "Pfizer Inc.2.86% of portfolioReported Price*: $25.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BAX",
+        "company": "Baxter International Inc.2.82% of portfolioReported Price*: $22.77",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EL",
+        "company": "Estee Lauder Cos.2.81% of portfolioReported Price*: $88.11",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VZ",
+        "company": "Verizon Communications2.81% of portfolioReported Price*: $43.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DD",
+        "company": "DuPont de Nemours Inc.2.79% of portfolioReported Price*: $77.90",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ASML",
+        "company": "ASML Holding NV2.78% of portfolioReported Price*: $967.93",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "KHC",
+        "company": "Kraft Heinz Co.2.77% of portfolioReported Price*: $26.04",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BMY",
+        "company": "Bristol-Myers Squibb2.77% of portfolioReported Price*: $45.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BDX",
+        "company": "Becton Dickinson2.76% of portfolioReported Price*: $187.18",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.362455"
+  },
+  {
+    "manager_id": "oc",
+    "manager_name": "Howard Marks - Oaktree Capital Management",
+    "portfolio_value": "$4.74 B",
+    "stock_count": "56",
+    "top_holdings": [
+      {
+        "symbol": "TRMD",
+        "company": "Torm Plc17.60% of portfolioReported Price*: $20.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EXE",
+        "company": "Expand Energy Corp.11.35% of portfolioReported Price*: $106.24",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GTX",
+        "company": "Garrett Motion Inc.9.16% of portfolioReported Price*: $13.62",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AU",
+        "company": "AngloGold Ashanti Ltd.6.21% of portfolioReported Price*: $70.33",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VNOM",
+        "company": "Viper Energy Inc.5.07% of portfolioReported Price*: $38.22",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TDS",
+        "company": "Telephone & Data Systems3.05% of portfolioReported Price*: $39.24",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TLN",
+        "company": "Talen Energy Corp2.61% of portfolioReported Price*: $425.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "STKL",
+        "company": "SunOpta Inc.2.56% of portfolioReported Price*: $5.86",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CORZ",
+        "company": "Core Scientific Inc2.42% of portfolioReported Price*: $17.94",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "B",
+        "company": "Barrick Mining Corp.2.28% of portfolioReported Price*: $32.77",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.362645"
+  },
+  {
+    "manager_id": "JIM",
+    "manager_name": "Jensen Investment Management",
+    "portfolio_value": "$8.06 B",
+    "stock_count": "87",
+    "top_holdings": [
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.9.77% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AAPL",
+        "company": "Apple Inc.7.28% of portfolioReported Price*: $254.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MMC",
+        "company": "Marsh & McLennan6.02% of portfolioReported Price*: $201.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SYK",
+        "company": "Stryker Corp.5.60% of portfolioReported Price*: $369.67",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.5.40% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NVDA",
+        "company": "NVIDIA Corp.5.00% of portfolioReported Price*: $186.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "INTU",
+        "company": "Intuit Inc.4.55% of portfolioReported Price*: $682.91",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LLY",
+        "company": "Eli Lilly & Co.4.39% of portfolioReported Price*: $763.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MA",
+        "company": "Mastercard Inc.4.10% of portfolioReported Price*: $568.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ABT",
+        "company": "Abbott Labs4.00% of portfolioReported Price*: $133.94",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.362831"
+  },
+  {
+    "manager_id": "EC",
+    "manager_name": "John Armitage - Egerton Capital",
+    "portfolio_value": "$9.48 B",
+    "stock_count": "24",
+    "top_holdings": [
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.9.89% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.9.39% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.8.58% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PGR",
+        "company": "Progressive Corp.6.74% of portfolioReported Price*: $246.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FERG",
+        "company": "Ferguson Enterprises Inc.6.16% of portfolioReported Price*: $224.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BSX",
+        "company": "Boston Scientific5.47% of portfolioReported Price*: $97.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CRH",
+        "company": "CRH plc5.39% of portfolioReported Price*: $119.90",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "APH",
+        "company": "Amphenol Corp.4.99% of portfolioReported Price*: $123.75",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "COF",
+        "company": "Capital One Financial4.66% of portfolioReported Price*: $212.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IBKR",
+        "company": "Interactive Brokers Group Inc.4.54% of portfolioReported Price*: $68.81",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.363012"
+  },
+  {
+    "manager_id": "CAAPX",
+    "manager_name": "John Rogers - Ariel Appreciation Fund",
+    "portfolio_value": "$884 M",
+    "stock_count": "41",
+    "top_holdings": [
+      {
+        "symbol": "GNRC",
+        "company": "Generac Holdings Inc.3.59% of portfolioReported Price*: $167.40",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SPHR",
+        "company": "Sphere Entertainment Co.3.47% of portfolioReported Price*: $62.12",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSGE",
+        "company": "Madison Square Garden Entertainment Corp.3.46% of portfolioReported Price*: $45.24",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NCLH",
+        "company": "Norwegian Cruise Line Hlgs Ltd.3.42% of portfolioReported Price*: $24.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CRL",
+        "company": "Charles River Labs3.35% of portfolioReported Price*: $156.46",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LH",
+        "company": "Labcorp Holdings Inc.3.25% of portfolioReported Price*: $287.06",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IPG-OLD",
+        "company": "Interpublic Group3.12% of portfolioReported Price*: $27.91",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "KN",
+        "company": "Knowles Corp.3.10% of portfolioReported Price*: $23.31",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MAT",
+        "company": "Mattel Inc.3.09% of portfolioReported Price*: $16.83",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CG",
+        "company": "Carlyle Group3.06% of portfolioReported Price*: $62.70",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.363203"
+  },
+  {
+    "manager_id": "GLC",
+    "manager_name": "Josh Tarasoff - Greenlea Lane Capital",
+    "portfolio_value": "$343 M",
+    "stock_count": "8",
+    "top_holdings": [
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.20.61% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BN",
+        "company": "Brookfield Corp.19.04% of portfolioReported Price*: $45.72",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.A",
+        "company": "Berkshire Hathaway CL A14.73% of portfolioReported Price*: $754194.03",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MKL",
+        "company": "Markel Group Inc.12.51% of portfolioReported Price*: $1911.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TSLA",
+        "company": "Tesla Inc.10.29% of portfolioReported Price*: $444.72",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TRUP",
+        "company": "Trupanion Inc.9.64% of portfolioReported Price*: $43.28",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.7.43% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BUR",
+        "company": "Burford Capital Ltd5.75% of portfolioReported Price*: $10.74",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.363368"
+  },
+  {
+    "manager_id": "KB",
+    "manager_name": "Kahn Brothers Group",
+    "portfolio_value": "$532 M",
+    "stock_count": "53",
+    "top_holdings": [
+      {
+        "symbol": "C",
+        "company": "Citigroup Inc.16.73% of portfolioReported Price*: $101.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BAYRY",
+        "company": "Bayer Ag Sponsored ADR10.58% of portfolioReported Price*: $8.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FLG",
+        "company": "Flagstar Financial Inc.9.33% of portfolioReported Price*: $11.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DIS",
+        "company": "Walt Disney Co.8.49% of portfolioReported Price*: $114.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OGN",
+        "company": "Organon & Co.7.26% of portfolioReported Price*: $10.68",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BP",
+        "company": "BP plc7.03% of portfolioReported Price*: $34.46",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MRK",
+        "company": "Merck & Co.6.85% of portfolioReported Price*: $83.93",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C6.17% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SEB",
+        "company": "Seaboard Corp.5.30% of portfolioReported Price*: $3646.94",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IDT",
+        "company": "IDT Corp. CL B3.86% of portfolioReported Price*: $52.31",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.363558"
+  },
+  {
+    "manager_id": "mc",
+    "manager_name": "Lee Ainslie - Maverick Capital",
+    "portfolio_value": "$7.47 B",
+    "stock_count": "201",
+    "top_holdings": [
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.6.57% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.6.46% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NVDA",
+        "company": "NVIDIA Corp.5.35% of portfolioReported Price*: $186.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NU",
+        "company": "Nu Holdings Ltd4.50% of portfolioReported Price*: $16.01",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TSM",
+        "company": "Taiwan Semiconductor S.A.3.81% of portfolioReported Price*: $279.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "UNP",
+        "company": "Union Pacific3.53% of portfolioReported Price*: $236.37",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PM",
+        "company": "Philip Morris Intl.3.52% of portfolioReported Price*: $162.20",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "COF",
+        "company": "Capital One Financial3.08% of portfolioReported Price*: $212.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RTX",
+        "company": "RTX Corp.3.04% of portfolioReported Price*: $167.33",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NTRA",
+        "company": "Natera Inc.2.87% of portfolioReported Price*: $160.97",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.363765"
+  },
+  {
+    "manager_id": "oa",
+    "manager_name": "Leon Cooperman",
+    "portfolio_value": "$3.2 B",
+    "stock_count": "41",
+    "top_holdings": [
+      {
+        "symbol": "COOP-OLD",
+        "company": "Mr. Cooper Group Inc.18.82% of portfolioReported Price*: $210.79",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VRT",
+        "company": "Vertiv Holdings Co.10.16% of portfolioReported Price*: $150.86",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ET",
+        "company": "Energy Transfer LP7.02% of portfolioReported Price*: $17.16",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MP",
+        "company": "MP Materials Corp.6.28% of portfolioReported Price*: $67.07",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MIR",
+        "company": "Mirion Technologies Inc6.09% of portfolioReported Price*: $23.26",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "APO",
+        "company": "Apollo Global Management5.56% of portfolioReported Price*: $133.27",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FIHL",
+        "company": "Fidelis Insurance Holdings L3.78% of portfolioReported Price*: $18.15",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ELV",
+        "company": "Elevance Health Inc.3.44% of portfolioReported Price*: $323.12",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RRX",
+        "company": "Regal Rexnord Corp.3.29% of portfolioReported Price*: $143.44",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LAD",
+        "company": "Lithia Motors Inc.3.13% of portfolioReported Price*: $316.00",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.363958"
+  },
+  {
+    "manager_id": "HC",
+    "manager_name": "Li Lu - Himalaya Capital Management",
+    "portfolio_value": "$3.23 B",
+    "stock_count": "9",
+    "top_holdings": [
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.19.14% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PDD",
+        "company": "Pinduoduo Inc.18.85% of portfolioReported Price*: $132.17",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C18.48% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BAC",
+        "company": "Bank of America Corp.16.66% of portfolioReported Price*: $51.59",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.B",
+        "company": "Berkshire Hathaway CL B13.97% of portfolioReported Price*: $502.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EWBC",
+        "company": "East West Bancorp9.15% of portfolioReported Price*: $106.45",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OXY",
+        "company": "Occidental Petroleum2.15% of portfolioReported Price*: $47.25",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AAPL",
+        "company": "Apple Inc.0.87% of portfolioReported Price*: $254.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SOC",
+        "company": "Sable Offshore Corp0.73% of portfolioReported Price*: $17.46",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.364140"
+  },
+  {
+    "manager_id": "LT",
+    "manager_name": "Lindsell Train",
+    "portfolio_value": "$4.08 B",
+    "stock_count": "28",
+    "top_holdings": [
+      {
+        "symbol": "TKO",
+        "company": "TKO Group Holdings Inc.14.64% of portfolioReported Price*: $201.96",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.13.32% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DIS",
+        "company": "Walt Disney Co.10.47% of portfolioReported Price*: $114.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "INTU",
+        "company": "Intuit Inc.10.25% of portfolioReported Price*: $682.91",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TMO",
+        "company": "Thermo Fisher Scientific9.73% of portfolioReported Price*: $485.02",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FICO",
+        "company": "Fair Isaac Corp.8.18% of portfolioReported Price*: $1496.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MDLZ",
+        "company": "Mondelez International7.71% of portfolioReported Price*: $62.47",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PEP",
+        "company": "PepsiCo Inc.7.59% of portfolioReported Price*: $140.44",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PYPL",
+        "company": "PayPal Holdings Inc.7.38% of portfolioReported Price*: $67.06",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EBAY",
+        "company": "eBay Inc.5.48% of portfolioReported Price*: $90.95",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.364335"
+  },
+  {
+    "manager_id": "MPGFX",
+    "manager_name": "Mairs & Power Growth Fund",
+    "portfolio_value": "$5.67 B",
+    "stock_count": "44",
+    "top_holdings": [
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.11.24% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NVDA",
+        "company": "NVIDIA Corp.10.94% of portfolioReported Price*: $186.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.6.48% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "JPM",
+        "company": "JPMorgan Chase & Co.5.31% of portfolioReported Price*: $315.43",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "UNH",
+        "company": "United Health Group Inc.4.32% of portfolioReported Price*: $345.30",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AAPL",
+        "company": "Apple Inc.3.43% of portfolioReported Price*: $254.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GGG",
+        "company": "Graco Inc.3.09% of portfolioReported Price*: $84.96",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C3.05% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TTC",
+        "company": "Toro Co.2.69% of portfolioReported Price*: $76.20",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.2.67% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.364539"
+  },
+  {
+    "manager_id": "LLPFX",
+    "manager_name": "Mason Hawkins - Longleaf Partners",
+    "portfolio_value": "$960 M",
+    "stock_count": "19",
+    "top_holdings": [
+      {
+        "symbol": "CNX",
+        "company": "CNX Resources Corp.7.37% of portfolioReported Price*: $32.12",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MAT",
+        "company": "Mattel Inc.6.86% of portfolioReported Price*: $16.83",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "KHC",
+        "company": "Kraft Heinz Co.6.84% of portfolioReported Price*: $26.04",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IAC",
+        "company": "IAC Inc.6.62% of portfolioReported Price*: $34.07",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EXXRF",
+        "company": "Exor NV6.60% of portfolioReported Price*: $97.68",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FDX",
+        "company": "FedEx Corp.6.48% of portfolioReported Price*: $235.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ACI",
+        "company": "Albertsons Co Inc.6.34% of portfolioReported Price*: $17.51",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RYN",
+        "company": "Rayonier Inc.6.22% of portfolioReported Price*: $26.54",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "REGN",
+        "company": "Regeneron Pharmaceuticals5.78% of portfolioReported Price*: $562.27",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PVH",
+        "company": "PVH Corp.5.68% of portfolioReported Price*: $83.77",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.364732"
+  },
+  {
+    "manager_id": "MVALX",
+    "manager_name": "Meridian Contrarian Fund",
+    "portfolio_value": "$547 M",
+    "stock_count": "65",
+    "top_holdings": [
+      {
+        "symbol": "FCNCA",
+        "company": "First Citizens Bancshares3.00% of portfolioReported Price*: $1789.19",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PENG",
+        "company": "Penguin Solutions Inc.2.89% of portfolioReported Price*: $26.28",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TCBI",
+        "company": "Texas Capital Bancshares2.74% of portfolioReported Price*: $84.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AXS",
+        "company": "Axis Capital Holdings Ltd.2.59% of portfolioReported Price*: $95.80",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EVRG",
+        "company": "Evergy Inc.2.56% of portfolioReported Price*: $76.02",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DLTR",
+        "company": "Dollar Tree Inc.2.53% of portfolioReported Price*: $94.37",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BEPC",
+        "company": "Brookfield Renewable Corp.2.53% of portfolioReported Price*: $34.42",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MIR",
+        "company": "Mirion Technologies Inc2.49% of portfolioReported Price*: $23.26",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NVST",
+        "company": "Envista Holdings Corp.2.47% of portfolioReported Price*: $20.37",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CACI",
+        "company": "CACI International Inc.2.39% of portfolioReported Price*: $498.78",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.364977"
+  },
+  {
+    "manager_id": "SAM",
+    "manager_name": "Michael Burry - Scion Asset Management",
+    "portfolio_value": "$55 M",
+    "stock_count": "3",
+    "top_holdings": [
+      {
+        "symbol": "MOH",
+        "company": "Molina Healthcare Inc.43.49% of portfolioReported Price*: $191.36",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LULU",
+        "company": "Lululemon Athletica Inc.32.35% of portfolioReported Price*: $177.93",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SLM",
+        "company": "SLM Corp.24.16% of portfolioReported Price*: $27.68",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.365089"
+  },
+  {
+    "manager_id": "PI",
+    "manager_name": "Mohnish Pabrai - Pabrai Investments",
+    "portfolio_value": "$337 M",
+    "stock_count": "5",
+    "top_holdings": [
+      {
+        "symbol": "HCC",
+        "company": "Warrior Met Coal Inc.34.00% of portfolioReported Price*: $63.64",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMR",
+        "company": "Alpha Metallurgical Resources Inc.25.91% of portfolioReported Price*: $164.09",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RIG",
+        "company": "Transocean Ltd.22.64% of portfolioReported Price*: $3.12",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VAL",
+        "company": "Valaris plc15.44% of portfolioReported Price*: $48.77",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NE",
+        "company": "Noble Corp.2.01% of portfolioReported Price*: $28.28",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.365211"
+  },
+  {
+    "manager_id": "TF",
+    "manager_name": "Nelson Peltz - Trian Fund Management",
+    "portfolio_value": "$4.11 B",
+    "stock_count": "7",
+    "top_holdings": [
+      {
+        "symbol": "JHG",
+        "company": "Janus Henderson Group34.53% of portfolioReported Price*: $44.51",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GE",
+        "company": "GE Aerospace29.52% of portfolioReported Price*: $300.82",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SOLV",
+        "company": "Solventum Corp15.04% of portfolioReported Price*: $73.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IVZ",
+        "company": "Invesco Ltd8.17% of portfolioReported Price*: $22.94",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WEN",
+        "company": "Wendy's Co.6.79% of portfolioReported Price*: $9.16",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FERG",
+        "company": "Ferguson Enterprises Inc.5.94% of portfolioReported Price*: $224.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GEHC",
+        "company": "GE HealthCare Technologies Inc.0.01% of portfolioReported Price*: $75.20",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.365360"
+  },
+  {
+    "manager_id": "PC",
+    "manager_name": "Norbert Lou - Punch Card Management",
+    "portfolio_value": "$322 M",
+    "stock_count": "6",
+    "top_holdings": [
+      {
+        "symbol": "BRK.A",
+        "company": "Berkshire Hathaway CL A33.92% of portfolioReported Price*: $754200.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SGOV",
+        "company": "Ishares 0 3 Month Treasury B17.68% of portfolioReported Price*: $100.70",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PDD",
+        "company": "Pinduoduo Inc.17.01% of portfolioReported Price*: $132.17",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CROX",
+        "company": "Crocs Inc.16.38% of portfolioReported Price*: $83.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PYPL",
+        "company": "PayPal Holdings Inc.13.53% of portfolioReported Price*: $67.06",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FISV",
+        "company": "Fiserv Inc.1.48% of portfolioReported Price*: $128.92",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.365496"
+  },
+  {
+    "manager_id": "DA",
+    "manager_name": "Pat Dorsey - Dorsey Asset Management",
+    "portfolio_value": "$1.11 B",
+    "stock_count": "9",
+    "top_holdings": [
+      {
+        "symbol": "DHR",
+        "company": "Danaher Corp.15.34% of portfolioReported Price*: $198.26",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ASML",
+        "company": "ASML Holding NV15.07% of portfolioReported Price*: $968.09",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AER",
+        "company": "AerCap Holdings N.V.13.75% of portfolioReported Price*: $121.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.12.69% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AZO",
+        "company": "AutoZone Inc.11.52% of portfolioReported Price*: $4290.25",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C9.40% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BKNG",
+        "company": "Booking Holdings Inc.8.24% of portfolioReported Price*: $5399.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RPRX",
+        "company": "Royalty Pharma plc7.45% of portfolioReported Price*: $35.28",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ENOV",
+        "company": "Enovis Corp.6.54% of portfolioReported Price*: $30.34",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.365678"
+  },
+  {
+    "manager_id": "pcm",
+    "manager_name": "Polen Capital Management",
+    "portfolio_value": "$30.8 B",
+    "stock_count": "232",
+    "top_holdings": [
+      {
+        "symbol": "ORCL",
+        "company": "Oracle Corp.8.48% of portfolioReported Price*: $281.24",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.8.44% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.8.02% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SHOP",
+        "company": "Shopify Inc.5.34% of portfolioReported Price*: $148.61",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MA",
+        "company": "Mastercard Inc.5.06% of portfolioReported Price*: $568.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.4.81% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AVGO",
+        "company": "Broadcom Inc.4.80% of portfolioReported Price*: $329.91",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LLY",
+        "company": "Eli Lilly & Co.4.02% of portfolioReported Price*: $763.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NVDA",
+        "company": "NVIDIA Corp.3.81% of portfolioReported Price*: $186.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C3.67% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.365869"
+  },
+  {
+    "manager_id": "FFH",
+    "manager_name": "Prem Watsa - Fairfax Financial Holdings",
+    "portfolio_value": "$2.07 B",
+    "stock_count": "29",
+    "top_holdings": [
+      {
+        "symbol": "ORLA",
+        "company": "Orla Mining Ltd29.57% of portfolioReported Price*: $10.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OXY",
+        "company": "Occidental Petroleum13.85% of portfolioReported Price*: $47.26",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CVS",
+        "company": "CVS Health Corp.9.90% of portfolioReported Price*: $75.36",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CLF",
+        "company": "Cleveland-Cliffs Inc.8.80% of portfolioReported Price*: $12.20",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BB",
+        "company": "BlackBerry Ltd.8.35% of portfolioReported Price*: $4.87",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "KHC",
+        "company": "Kraft Heinz Co.6.45% of portfolioReported Price*: $26.03",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "KW",
+        "company": "Kennedy-Wilson Holdings Inc.5.37% of portfolioReported Price*: $8.32",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ATS",
+        "company": "Ats Corp3.11% of portfolioReported Price*: $25.79",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TAP",
+        "company": "Molson Coors Beverage Co.2.83% of portfolioReported Price*: $45.24",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VOO",
+        "company": "Vanguard S&P 500 ETF1.73% of portfolioReported Price*: $612.33",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.366064"
+  },
+  {
+    "manager_id": "pzfvx",
+    "manager_name": "Richard Pzena - Hancock Classic Value",
+    "portfolio_value": "$591 M",
+    "stock_count": "33",
+    "top_holdings": [
+      {
+        "symbol": "CVS",
+        "company": "CVS Health Corp.5.31% of portfolioReported Price*: $75.39",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HUM",
+        "company": "Humana Inc.5.00% of portfolioReported Price*: $260.17",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "C",
+        "company": "Citigroup Inc.4.77% of portfolioReported Price*: $101.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BAX",
+        "company": "Baxter International Inc.4.69% of portfolioReported Price*: $22.77",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FMS",
+        "company": "Fresenius Medical Care AG & Co KCaG4.53% of portfolioReported Price*: $26.33",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WFC",
+        "company": "Wells Fargo4.44% of portfolioReported Price*: $83.82",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MGA",
+        "company": "Magna International Inc.4.34% of portfolioReported Price*: $47.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DG",
+        "company": "Dollar General4.11% of portfolioReported Price*: $103.35",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "COF",
+        "company": "Capital One Financial3.94% of portfolioReported Price*: $212.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MET",
+        "company": "MetLife Inc.3.78% of portfolioReported Price*: $82.37",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.366254"
+  },
+  {
+    "manager_id": "OFALX",
+    "manager_name": "Robert Olstein - Olstein Capital Management",
+    "portfolio_value": "$530 M",
+    "stock_count": "103",
+    "top_holdings": [
+      {
+        "symbol": "DIS",
+        "company": "Walt Disney Co.2.36% of portfolioReported Price*: $114.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VNT",
+        "company": "Vontier Corp.2.03% of portfolioReported Price*: $41.97",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ST",
+        "company": "Sensata Technologies Holding2.00% of portfolioReported Price*: $30.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AVTR",
+        "company": "Avantor Inc.1.87% of portfolioReported Price*: $12.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LKQ",
+        "company": "LKQ Corp.1.84% of portfolioReported Price*: $30.54",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BDX",
+        "company": "Becton Dickinson1.84% of portfolioReported Price*: $187.17",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ABM",
+        "company": "ABM Industries1.82% of portfolioReported Price*: $46.12",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "JNJ",
+        "company": "Johnson & Johnson1.70% of portfolioReported Price*: $185.42",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OMC",
+        "company": "Omnicom Group1.69% of portfolioReported Price*: $81.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SLB",
+        "company": "Schlumberger Ltd.1.64% of portfolioReported Price*: $34.37",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.366442"
+  },
+  {
+    "manager_id": "RVC",
+    "manager_name": "Robert Vinall - RV Capital GmbH",
+    "portfolio_value": "$546 M",
+    "stock_count": "13",
+    "top_holdings": [
+      {
+        "symbol": "CVNA",
+        "company": "Carvana Co.30.75% of portfolioReported Price*: $377.24",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.18.78% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CACC",
+        "company": "Credit Acceptance Corp.11.15% of portfolioReported Price*: $466.93",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WIX",
+        "company": "Wix.com Ltd.10.24% of portfolioReported Price*: $177.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IBKR",
+        "company": "Interactive Brokers Group Inc.10.07% of portfolioReported Price*: $68.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PDD",
+        "company": "Pinduoduo Inc.7.29% of portfolioReported Price*: $132.17",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HTHT",
+        "company": "H World Group Ltd ADR4.32% of portfolioReported Price*: $39.11",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "YUMC",
+        "company": "Yum China Holdings Inc.3.49% of portfolioReported Price*: $42.92",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.1.45% of portfolioReported Price*: $243.11",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.1.09% of portfolioReported Price*: $517.91",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.366622"
+  },
+  {
+    "manager_id": "SEQUX",
+    "manager_name": "Ruane Cunniff - Sequoia Fund",
+    "portfolio_value": "$3.69 B",
+    "stock_count": "25",
+    "top_holdings": [
+      {
+        "symbol": "RYCEF",
+        "company": "Rolls Royce Holdings plc18.19% of portfolioReported Price*: $16.01",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FWONK",
+        "company": "Liberty Media Corp Formula One Series C7.77% of portfolioReported Price*: $104.45",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.7.62% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "UMGNF",
+        "company": "Universal Music Grp NV6.80% of portfolioReported Price*: $28.83",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CNSWF",
+        "company": "Constellation Software Inc.6.12% of portfolioReported Price*: $2714.65",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SCHW",
+        "company": "Charles Schwab Corp.5.97% of portfolioReported Price*: $95.47",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ERFSF",
+        "company": "Eurofins Scientific SE5.76% of portfolioReported Price*: $72.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TSM",
+        "company": "Taiwan Semiconductor S.A.5.14% of portfolioReported Price*: $279.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "COF",
+        "company": "Capital One Financial4.77% of portfolioReported Price*: $212.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ELV",
+        "company": "Elevance Health Inc.4.67% of portfolioReported Price*: $323.12",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.366809"
+  },
+  {
+    "manager_id": "PTNT",
+    "manager_name": "Samantha McLemore - Patient Capital Management",
+    "portfolio_value": "$2.5 B",
+    "stock_count": "41",
+    "top_holdings": [
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.5.97% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "C",
+        "company": "Citigroup Inc.5.32% of portfolioReported Price*: $101.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "UNH",
+        "company": "United Health Group Inc.5.13% of portfolioReported Price*: $345.30",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "QXO",
+        "company": "Qxo Inc4.99% of portfolioReported Price*: $19.06",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.4.94% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NVDA",
+        "company": "NVIDIA Corp.4.73% of portfolioReported Price*: $186.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NCLH",
+        "company": "Norwegian Cruise Line Hlgs Ltd.4.50% of portfolioReported Price*: $24.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RPRX",
+        "company": "Royalty Pharma plc4.40% of portfolioReported Price*: $35.28",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.4.23% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CVS",
+        "company": "CVS Health Corp.3.74% of portfolioReported Price*: $75.39",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.366992"
+  },
+  {
+    "manager_id": "CAU",
+    "manager_name": "Sarah Ketterer - Causeway Capital Management",
+    "portfolio_value": "$7.55 B",
+    "stock_count": "104",
+    "top_holdings": [
+      {
+        "symbol": "CP",
+        "company": "Canadian Pacific Kansas City13.34% of portfolioReported Price*: $74.49",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CCL",
+        "company": "Carnival Corp.12.22% of portfolioReported Price*: $28.91",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DB",
+        "company": "Deutsche Bank AG8.22% of portfolioReported Price*: $35.20",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "B",
+        "company": "Barrick Mining Corp.6.82% of portfolioReported Price*: $32.79",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EFA",
+        "company": "iShares MSCI EAFE ETF6.13% of portfolioReported Price*: $93.37",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SW",
+        "company": "Smurfit Westrock Plc4.24% of portfolioReported Price*: $42.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BABA",
+        "company": "Alibaba Group Holdings2.92% of portfolioReported Price*: $178.73",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C2.04% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TSM",
+        "company": "Taiwan Semiconductor S.A.1.88% of portfolioReported Price*: $279.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "C",
+        "company": "Citigroup Inc.1.34% of portfolioReported Price*: $101.50",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.367188"
+  },
+  {
+    "manager_id": "BAUPOST",
+    "manager_name": "Seth Klarman - Baupost Group",
+    "portfolio_value": "$4.76 B",
+    "stock_count": "20",
+    "top_holdings": [
+      {
+        "symbol": "QSR",
+        "company": "Restaurant Brands International11.11% of portfolioReported Price*: $64.14",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C9.50% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ELV",
+        "company": "Elevance Health Inc.8.95% of portfolioReported Price*: $323.12",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CRH",
+        "company": "CRH plc8.52% of portfolioReported Price*: $119.90",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WTW",
+        "company": "Willis Towers Watson plc7.90% of portfolioReported Price*: $345.45",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "UNP",
+        "company": "Union Pacific7.43% of portfolioReported Price*: $236.37",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WCC",
+        "company": "WESCO International Inc.6.67% of portfolioReported Price*: $211.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DG",
+        "company": "Dollar General5.79% of portfolioReported Price*: $103.35",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FERG",
+        "company": "Ferguson Enterprises Inc.5.45% of portfolioReported Price*: $224.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LBTYK",
+        "company": "Liberty Global Ltd CL C5.34% of portfolioReported Price*: $11.75",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.367380"
+  },
+  {
+    "manager_id": "LPC",
+    "manager_name": "Stephen Mandel - Lone Pine Capital",
+    "portfolio_value": "$13.7 B",
+    "stock_count": "25",
+    "top_holdings": [
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.7.07% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VST",
+        "company": "Vistra Corp.6.70% of portfolioReported Price*: $195.92",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TSM",
+        "company": "Taiwan Semiconductor S.A.6.20% of portfolioReported Price*: $279.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "APP",
+        "company": "Applovin Corp.5.80% of portfolioReported Price*: $718.54",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LPLA",
+        "company": "LPL Financial Holdings Inc.5.46% of portfolioReported Price*: $332.69",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PM",
+        "company": "Philip Morris Intl.5.45% of portfolioReported Price*: $162.20",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BN",
+        "company": "Brookfield Corp.5.08% of portfolioReported Price*: $45.72",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CVNA",
+        "company": "Carvana Co.4.85% of portfolioReported Price*: $377.24",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.4.56% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.4.49% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.367570"
+  },
+  {
+    "manager_id": "FPACX",
+    "manager_name": "Steven Romick - FPA Crescent Fund",
+    "portfolio_value": "$6.28 B",
+    "stock_count": "55",
+    "top_holdings": [
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.6.84% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.5.38% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ADI",
+        "company": "Analog Devices5.23% of portfolioReported Price*: $245.70",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TEL",
+        "company": "TE Connectivity plc4.94% of portfolioReported Price*: $219.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "C",
+        "company": "Citigroup Inc.3.84% of portfolioReported Price*: $101.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CMCSA",
+        "company": "Comcast Corp.3.55% of portfolioReported Price*: $31.42",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C3.47% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "JDEPY",
+        "company": "JDE Peets NV3.43% of portfolioReported Price*: $36.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HKHHF",
+        "company": "Heineken Holding NV3.37% of portfolioReported Price*: $68.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PROSF",
+        "company": "Prosus NV3.23% of portfolioReported Price*: $70.37",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.367764"
+  },
+  {
+    "manager_id": "FS",
+    "manager_name": "Terry Smith - Fundsmith",
+    "portfolio_value": "$19.8 B",
+    "stock_count": "35",
+    "top_holdings": [
+      {
+        "symbol": "SYK",
+        "company": "Stryker Corp.8.57% of portfolioReported Price*: $369.67",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IDXX",
+        "company": "IDEXX Laboratories8.43% of portfolioReported Price*: $638.89",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.7.72% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.6.76% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.6.65% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ADP",
+        "company": "Automatic Data Processing Inc.6.39% of portfolioReported Price*: $293.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WAT",
+        "company": "Waters Corp.5.99% of portfolioReported Price*: $299.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PM",
+        "company": "Philip Morris Intl.5.89% of portfolioReported Price*: $162.20",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.5.78% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MAR",
+        "company": "Marriott Int'l.5.56% of portfolioReported Price*: $260.44",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.367955"
+  },
+  {
+    "manager_id": "TA",
+    "manager_name": "Third Avenue Management",
+    "portfolio_value": "$533 M",
+    "stock_count": "50",
+    "top_holdings": [
+      {
+        "symbol": "TDW",
+        "company": "Tidewater Inc.9.00% of portfolioReported Price*: $54.80",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HCC",
+        "company": "Warrior Met Coal Inc.7.94% of portfolioReported Price*: $65.92",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VAL",
+        "company": "Valaris plc5.63% of portfolioReported Price*: $51.22",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BN",
+        "company": "Brookfield Corp.4.82% of portfolioReported Price*: $45.25",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FPH",
+        "company": "Five Point Holdings LLC4.73% of portfolioReported Price*: $6.13",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CBRE",
+        "company": "CBRE Group4.55% of portfolioReported Price*: $156.56",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BCC",
+        "company": "Boise Cascade Company3.98% of portfolioReported Price*: $77.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LEN.B",
+        "company": "Lennar Corp. CL B3.39% of portfolioReported Price*: $121.97",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PLD",
+        "company": "Prologis Inc.3.18% of portfolioReported Price*: $116.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ROG",
+        "company": "Rogers Corp.3.06% of portfolioReported Price*: $81.83",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.368149"
+  },
+  {
+    "manager_id": "MKL",
+    "manager_name": "Thomas Gayner - Markel Group",
+    "portfolio_value": "$12.3 B",
+    "stock_count": "129",
+    "top_holdings": [
+      {
+        "symbol": "BRK.A",
+        "company": "Berkshire Hathaway CL A6.82% of portfolioReported Price*: $754200.18",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.B",
+        "company": "Berkshire Hathaway CL B6.25% of portfolioReported Price*: $502.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C5.44% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BN",
+        "company": "Brookfield Corp.4.85% of portfolioReported Price*: $45.72",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.3.62% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DE",
+        "company": "Deere & Co.3.26% of portfolioReported Price*: $457.26",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HD",
+        "company": "Home Depot3.03% of portfolioReported Price*: $405.19",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.2.77% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AAPL",
+        "company": "Apple Inc.2.54% of portfolioReported Price*: $254.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ADI",
+        "company": "Analog Devices2.33% of portfolioReported Price*: $245.70",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.368340"
+  },
+  {
+    "manager_id": "GR",
+    "manager_name": "Thomas Russo - Gardner Russo & Quinn",
+    "portfolio_value": "$9.33 B",
+    "stock_count": "85",
+    "top_holdings": [
+      {
+        "symbol": "BRK.A",
+        "company": "Berkshire Hathaway CL A12.46% of portfolioReported Price*: $754199.87",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C12.14% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MA",
+        "company": "Mastercard Inc.9.88% of portfolioReported Price*: $568.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PM",
+        "company": "Philip Morris Intl.8.11% of portfolioReported Price*: $162.20",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CFRHF",
+        "company": "Compagnie Financiere Richemont SA7.36% of portfolioReported Price*: $190.54",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HKHHF",
+        "company": "Heineken Holding NV6.83% of portfolioReported Price*: $68.56",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NFLX",
+        "company": "Netflix Inc.6.61% of portfolioReported Price*: $119.89",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.B",
+        "company": "Berkshire Hathaway CL B6.26% of portfolioReported Price*: $502.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NSRGY",
+        "company": "Nestle5.69% of portfolioReported Price*: $91.77",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "UBER",
+        "company": "Uber Technologies Inc.4.95% of portfolioReported Price*: $97.97",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.368527"
+  },
+  {
+    "manager_id": "MP",
+    "manager_name": "Tom Bancroft - Makaira Partners",
+    "portfolio_value": "$195 M",
+    "stock_count": "12",
+    "top_holdings": [
+      {
+        "symbol": "CHTR",
+        "company": "Charter Communications23.17% of portfolioReported Price*: $275.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BBWI",
+        "company": "Bath & Body Works Inc.18.12% of portfolioReported Price*: $25.76",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LAMR",
+        "company": "Lamar Advertising Co.10.69% of portfolioReported Price*: $122.42",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FLUT",
+        "company": "Flutter Entertainment Plc10.62% of portfolioReported Price*: $254.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DPZ",
+        "company": "Dominos Pizza Inc.8.20% of portfolioReported Price*: $431.70",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CDW",
+        "company": "CDW Corp.8.18% of portfolioReported Price*: $159.28",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BELFB",
+        "company": "Bel Fuse Inc. CL B7.24% of portfolioReported Price*: $141.02",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WHD",
+        "company": "Cactus Inc.5.34% of portfolioReported Price*: $39.47",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SVV",
+        "company": "Savers Value Village Inc5.31% of portfolioReported Price*: $13.25",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LMB",
+        "company": "Limbach Holdings Inc.2.61% of portfolioReported Price*: $97.11",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.368713"
+  },
+  {
+    "manager_id": "T",
+    "manager_name": "Torray Funds",
+    "portfolio_value": "$713 M",
+    "stock_count": "98",
+    "top_holdings": [
+      {
+        "symbol": "AVGO",
+        "company": "Broadcom Inc.4.37% of portfolioReported Price*: $329.90",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PSX",
+        "company": "Phillips 663.99% of portfolioReported Price*: $136.02",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RPRX",
+        "company": "Royalty Pharma plc3.48% of portfolioReported Price*: $35.28",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "HD",
+        "company": "Home Depot3.30% of portfolioReported Price*: $405.19",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ABBV",
+        "company": "AbbVie Inc.3.30% of portfolioReported Price*: $231.54",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BX",
+        "company": "Blackstone Group3.29% of portfolioReported Price*: $170.85",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CNA",
+        "company": "CNA Financial Corp.3.28% of portfolioReported Price*: $46.46",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TXN",
+        "company": "Texas Instruments2.95% of portfolioReported Price*: $183.73",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMGN",
+        "company": "Amgen2.87% of portfolioReported Price*: $282.20",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CVX",
+        "company": "Chevron Corp.2.85% of portfolioReported Price*: $155.29",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.368908"
+  },
+  {
+    "manager_id": "TFP",
+    "manager_name": "Triple Frond Partners",
+    "portfolio_value": "$918 M",
+    "stock_count": "11",
+    "top_holdings": [
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.21.73% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C14.62% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.12.93% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ASML",
+        "company": "ASML Holding NV11.76% of portfolioReported Price*: $968.09",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TDG",
+        "company": "TransDigm Group Inc.8.18% of portfolioReported Price*: $1318.03",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.8.13% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LRCX",
+        "company": "Lam Research6.24% of portfolioReported Price*: $133.90",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CHTR",
+        "company": "Charter Communications4.81% of portfolioReported Price*: $275.11",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ILMN",
+        "company": "Illumina Inc.4.04% of portfolioReported Price*: $94.97",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TRU",
+        "company": "TransUnion3.93% of portfolioReported Price*: $83.78",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.369095"
+  },
+  {
+    "manager_id": "TWEBX",
+    "manager_name": "Tweedy Browne Co. - Tweedy Browne Value Fund",
+    "portfolio_value": "$423 M",
+    "stock_count": "83",
+    "top_holdings": [
+      {
+        "symbol": "SAFRF",
+        "company": "Safran SA3.78% of portfolioReported Price*: $355.15",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RHHVF",
+        "company": "Roche Holdings AG DIV RT3.51% of portfolioReported Price*: $333.15",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TTE",
+        "company": "TotalEnergies SE3.41% of portfolioReported Price*: $60.96",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "WFC",
+        "company": "Wells Fargo3.41% of portfolioReported Price*: $83.82",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IONS",
+        "company": "Ionis Pharmaceuticals Inc.2.94% of portfolioReported Price*: $65.42",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BYNN.F",
+        "company": "Rubis SCA2.66% of portfolioReported Price*: $37.52",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.A",
+        "company": "Berkshire Hathaway CL A2.50% of portfolioReported Price*: $754214.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NSRGY",
+        "company": "Nestle2.42% of portfolioReported Price*: $91.77",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "UOVEY",
+        "company": "United Overseas Bank Ltd.2.36% of portfolioReported Price*: $26.87",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PUKPF",
+        "company": "Prudential plc2.30% of portfolioReported Price*: $14.01",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.369289"
+  },
+  {
+    "manager_id": "VFC",
+    "manager_name": "Valley Forge Capital Management",
+    "portfolio_value": "$4.16 B",
+    "stock_count": "9",
+    "top_holdings": [
+      {
+        "symbol": "FICO",
+        "company": "Fair Isaac Corp.27.66% of portfolioReported Price*: $1496.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SPGI",
+        "company": "S&P Global Inc.20.55% of portfolioReported Price*: $486.71",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MA",
+        "company": "Mastercard Inc.20.32% of portfolioReported Price*: $568.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MCO",
+        "company": "Moody's Corp.15.06% of portfolioReported Price*: $476.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.7.49% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "INTU",
+        "company": "Intuit Inc.4.29% of portfolioReported Price*: $682.91",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "ASML",
+        "company": "ASML Holding NV2.93% of portfolioReported Price*: $968.09",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EFX",
+        "company": "Equifax Inc.0.89% of portfolioReported Price*: $256.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSCI",
+        "company": "MSCI Inc.0.81% of portfolioReported Price*: $567.40",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.369472"
+  },
+  {
+    "manager_id": "VA",
+    "manager_name": "ValueAct Capital",
+    "portfolio_value": "$5.93 B",
+    "stock_count": "16",
+    "top_holdings": [
+      {
+        "symbol": "AMZN",
+        "company": "Amazon.com Inc.12.96% of portfolioReported Price*: $219.57",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CRM",
+        "company": "Salesforce.com11.59% of portfolioReported Price*: $237.00",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RBLX",
+        "company": "Roblox Corp.10.01% of portfolioReported Price*: $138.52",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.9.52% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.9.01% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DIS",
+        "company": "Walt Disney Co.8.48% of portfolioReported Price*: $114.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "RKT",
+        "company": "Rocket Companies Inc.8.30% of portfolioReported Price*: $19.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MDB",
+        "company": "MongoDB Inc.6.19% of portfolioReported Price*: $173.35",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "LLYVK",
+        "company": "Liberty Media Corp. Series C Live5.75% of portfolioReported Price*: $96.97",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NSIT",
+        "company": "Insight Enterprises Inc.4.34% of portfolioReported Price*: $113.41",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.369693"
+  },
+  {
+    "manager_id": "vg",
+    "manager_name": "Viking Global Investors",
+    "portfolio_value": "$38.5 B",
+    "stock_count": "78",
+    "top_holdings": [
+      {
+        "symbol": "PNC",
+        "company": "PNC Financial Services4.15% of portfolioReported Price*: $200.93",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "JPM",
+        "company": "JPMorgan Chase & Co.4.14% of portfolioReported Price*: $315.43",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SCHW",
+        "company": "Charles Schwab Corp.4.11% of portfolioReported Price*: $95.47",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "COF",
+        "company": "Capital One Financial4.08% of portfolioReported Price*: $212.58",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.3.27% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "DIS",
+        "company": "Walt Disney Co.3.11% of portfolioReported Price*: $114.50",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TSM",
+        "company": "Taiwan Semiconductor S.A.2.86% of portfolioReported Price*: $279.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MCD",
+        "company": "McDonald's Corp.2.66% of portfolioReported Price*: $303.89",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FTV",
+        "company": "Fortive Corp.2.61% of portfolioReported Price*: $48.99",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "APD",
+        "company": "Air Products & Chemicals2.60% of portfolioReported Price*: $272.72",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.369924"
+  },
+  {
+    "manager_id": "WVALX",
+    "manager_name": "Wallace Weitz - Weitz Large Cap Equity Fund",
+    "portfolio_value": "$816 M",
+    "stock_count": "27",
+    "top_holdings": [
+      {
+        "symbol": "DHR",
+        "company": "Danaher Corp.6.80% of portfolioReported Price*: $198.26",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.6.66% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TMO",
+        "company": "Thermo Fisher Scientific5.23% of portfolioReported Price*: $485.02",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C5.22% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "META",
+        "company": "Meta Platforms Inc.4.95% of portfolioReported Price*: $734.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.4.81% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CSGP",
+        "company": "CoStar Group Inc.4.76% of portfolioReported Price*: $84.37",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "VMC",
+        "company": "Vulcan Materials4.52% of portfolioReported Price*: $307.62",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "EFX",
+        "company": "Equifax Inc.4.48% of portfolioReported Price*: $256.53",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BRK.B",
+        "company": "Berkshire Hathaway CL B4.47% of portfolioReported Price*: $502.74",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.370127"
+  },
+  {
+    "manager_id": "BRK",
+    "manager_name": "Warren Buffett - Berkshire Hathaway",
+    "portfolio_value": "$267.3 B",
+    "stock_count": "41",
+    "top_holdings": [
+      {
+        "symbol": "AAPL",
+        "company": "Apple Inc.22.69% of portfolioReported Price*: $254.63",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AXP",
+        "company": "American Express18.84% of portfolioReported Price*: $332.16",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BAC",
+        "company": "Bank of America Corp.10.96% of portfolioReported Price*: $51.59",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "KO",
+        "company": "Coca Cola Co.9.92% of portfolioReported Price*: $66.32",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CVX",
+        "company": "Chevron Corp.7.09% of portfolioReported Price*: $155.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "OXY",
+        "company": "Occidental Petroleum4.68% of portfolioReported Price*: $47.25",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MCO",
+        "company": "Moody's Corp.4.40% of portfolioReported Price*: $476.48",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CB",
+        "company": "Chubb Limited3.31% of portfolioReported Price*: $282.25",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "KHC",
+        "company": "Kraft Heinz Co.3.17% of portfolioReported Price*: $26.04",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.1.62% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.370325"
+  },
+  {
+    "manager_id": "cc",
+    "manager_name": "William Von Mueffling - Cantillon Capital Management",
+    "portfolio_value": "$18.2 B",
+    "stock_count": "38",
+    "top_holdings": [
+      {
+        "symbol": "AVGO",
+        "company": "Broadcom Inc.8.54% of portfolioReported Price*: $329.91",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOGL",
+        "company": "Alphabet Inc.5.60% of portfolioReported Price*: $243.10",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "IBKR",
+        "company": "Interactive Brokers Group Inc.4.80% of portfolioReported Price*: $68.81",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SPGI",
+        "company": "S&P Global Inc.4.67% of portfolioReported Price*: $486.71",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "TSM",
+        "company": "Taiwan Semiconductor S.A.4.32% of portfolioReported Price*: $279.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "CBRE",
+        "company": "CBRE Group3.84% of portfolioReported Price*: $157.56",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "V",
+        "company": "Visa Inc.3.64% of portfolioReported Price*: $341.38",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.3.57% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "AMAT",
+        "company": "Applied Materials3.33% of portfolioReported Price*: $204.74",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "BLK",
+        "company": "BlackRock Inc.3.28% of portfolioReported Price*: $1165.87",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.370519"
+  },
+  {
+    "manager_id": "YAM",
+    "manager_name": "Yacktman Asset Management",
+    "portfolio_value": "$7.26 B",
+    "stock_count": "70",
+    "top_holdings": [
+      {
+        "symbol": "CNQ",
+        "company": "Canadian Natural Resources9.21% of portfolioReported Price*: $31.96",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "MSFT",
+        "company": "Microsoft Corp.7.34% of portfolioReported Price*: $517.95",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "SCHW",
+        "company": "Charles Schwab Corp.5.52% of portfolioReported Price*: $95.47",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "FOX",
+        "company": "Fox Corporation CL B4.58% of portfolioReported Price*: $57.29",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PG",
+        "company": "Procter & Gamble4.11% of portfolioReported Price*: $153.65",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "UHAL.B",
+        "company": "U Haul Holding Co Non Voting4.07% of portfolioReported Price*: $50.90",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "PEP",
+        "company": "PepsiCo Inc.3.99% of portfolioReported Price*: $140.44",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "GOOG",
+        "company": "Alphabet Inc. CL C3.91% of portfolioReported Price*: $243.55",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "JNJ",
+        "company": "Johnson & Johnson3.29% of portfolioReported Price*: $185.42",
+        "percentage": "",
+        "reported_price": ""
+      },
+      {
+        "symbol": "NWSA",
+        "company": "News Corp.3.14% of portfolioReported Price*: $30.71",
+        "percentage": "",
+        "reported_price": ""
+      }
+    ],
+    "updated_at": "2026-01-07T18:05:01.370785"
+  }
+]
