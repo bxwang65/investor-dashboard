@@ -1,6 +1,7 @@
 [build]
   publish = "dist"
-  command = "npm run build"
+  # 如果已有预构建的dist，跳过构建
+  command = "if [ -d 'dist' ] && [ -f 'dist/index.html' ]; then echo 'Using pre-built dist'; else npm run build; fi"
 
 [build.environment]
   NODE_VERSION = "18"
